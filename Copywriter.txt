@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Freelance Email, Website, and Ad Copywriting Portfolio by Nebiyu Sintayehu - Hire a conversion-focused copywriter today." />
+  <title>Nebiyu Sintayehu | Freelance Copywriter</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #fefefe;
+      color: #333;
+    }
+    header, footer {
+      background-color: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 10px;
+      color: #f4c10f;
+      text-decoration: none;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .services, .contact {
+      background-color: #f9f9f9;
+      margin-top: 20px;
+    }
+    h2 {
+      color: #bb8500;
+    }
+    .service-item {
+      margin-bottom: 20px;
+    }
+    .social-icons a {
+      margin: 0 10px;
+      color: #f4c10f;
+      font-size: 24px;
+      text-decoration: none;
+    }
+    form input, form textarea {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    form button {
+      background-color: #f4c10f;
+      color: #000;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      margin-top: 10px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nebiyu Sintayehu</h1>
+    <p>Email | Website | Ad Copywriter</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Nebiyu Sintayehu, a freelance copywriter from Ethiopia. I specialize in writing persuasive, results-driven copy for emails, websites, and advertisements. With a passion for clear messaging and storytelling, I help brands connect with their audience and grow their business through the power of words.</p>
+  </section>
+
+  <section id="services" class="services">
+    <h2>My Services</h2>
+
+    <div class="service-item">
+      <h3>Email Copywriting</h3>
+      <p>I craft high-converting email sequences like welcome series, promotions, abandoned carts, and newsletters. Every word builds trust and drives action.</p>
+    </div>
+
+    <div class="service-item">
+      <h3>Website Copywriting</h3>
+      <p>Your website should sell, not just exist. I write homepage, about, and landing page copy that is clear, persuasive, and SEO-optimized.</p>
+    </div>
+
+    <div class="service-item">
+      <h3>Ad Copywriting</h3>
+      <p>I create short, punchy, and scroll-stopping copy for Instagram, Facebook, and Google ads that grab attention and convert fast.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Me</h2>
+    <p>Have a project in mind? I'd love to hear about it. Reach out below!</p>
+
+<form action="mailto:nebiyu.sintayehu12@gmail.com" method="post" enctype="text/plain"> <input type="text" name="name" placeholder="Your Name" required> <input type="email" name="email" placeholder="Your Email" required> <textarea name="message" rows="6" placeholder="Your Message" required></textarea> <button type="submit">Send Message</button> </form> <p>Or connect with me on social media:</p> <div class="social-icons"> <a href="https://www.linkedin.com/in/nebiyu-sintayehu-732654363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium"_blank"><i class="fab fa-linkedin"></i></a> <a href="https://www.facebook.com/share/16SZXxBQxL/"_blank"><i class="fab fa-facebook"></i></a> <a href="https://x.com/neba_santa?t=TS59b6QPSs7X6D53BQoWHA&s=09" target="_blank"><i class="fab fa-twitter"></i></a> </div> 
+
+© 2025 Nebiyu Sintayehu. All rights reserved.
